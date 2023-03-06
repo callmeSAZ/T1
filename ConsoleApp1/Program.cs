@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //دریافت سه عدد اعشاری و گرفتن میانگین
             float x, y, z;
             x = float.Parse(Console.ReadLine());
             y = float.Parse(Console.ReadLine());
